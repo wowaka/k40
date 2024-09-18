@@ -21,6 +21,8 @@ PRK Firmware:
 Microcontroller:
 - [RP2040-Zero](https://www.waveshare.com/rp2040-zero.htm)
 
+![](rp2040-zero-pinout.jpg)
+
 ### Доп.инфо
 
 Руководства:
