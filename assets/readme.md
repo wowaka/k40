@@ -37,5 +37,7 @@ Microcontroller: [RP2040-Zero](https://www.waveshare.com/rp2040-zero.htm)
 - [Building the ScottoAlp Handwired Mechanical Keyboard Part 1](https://www.youtube.com/watch?v=gVn9Gcfyt1Y)
 - [Building the ScottoAlp Handwired Mechanical Keyboard Part 2](https://www.youtube.com/watch?v=fNw5EELwTT0)
 
-Софт для 3D моделирования: [https://www.shapr3d.com/](https://www.shapr3d.com/)
+Софт:
+- [http://builder.swillkb.com/](http://builder.swillkb.com/)
+- [https://www.shapr3d.com/](https://www.shapr3d.com/)
 
