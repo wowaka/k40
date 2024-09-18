@@ -6,6 +6,14 @@
 
 ![](schematic-k40.png)
 
+Микроконтроллер: [RP2040-Zero](https://www.waveshare.com/rp2040-zero.htm)
+
+![](rp2040-zero-pinout.jpg)
+
+Прошивка:
+- [PRK Firmware](https://github.com/picoruby/prk_firmware)
+- [PRK Documentation](https://github.com/picoruby/prk_firmware/wiki/Tutorial)
+
 Варианты монтажа в корпусе
 
 ![](mounting.png)
@@ -13,14 +21,6 @@
 Прототип
 
 ![](proto.jpeg)
-
-Прошивка:
-- [PRK Firmware](https://github.com/picoruby/prk_firmware)
-- [PRK Documentation](https://github.com/picoruby/prk_firmware/wiki/Tutorial)
-
-Микроконтроллер: [RP2040-Zero](https://www.waveshare.com/rp2040-zero.htm)
-
-![](rp2040-zero-pinout.jpg)
 
 ### Доп.инфо
 
