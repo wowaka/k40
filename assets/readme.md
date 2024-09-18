@@ -6,6 +6,8 @@
 
 ![](schematic-k40.png)
 
+Диоды: 1N4148
+
 Микроконтроллер: [RP2040-Zero](https://www.waveshare.com/rp2040-zero.htm)
 
 ![](rp2040-zero-pinout.jpg)
