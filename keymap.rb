@@ -3,7 +3,7 @@ kbd = Keyboard.new
 
 # Initialize GPIO assign (controller on the left)
 kbd.init_pins(
-  [ 21, 20, 19, 18], # row0 (top), row1,... respectively
+  [ 27, 26, 15, 14], # row0 (top), row1,... respectively
   [ 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0 ]  # col0 (left), col1,... respectively
 )
 #keyboard.row_pins = (board.GP21, board.GP20, board.GP19, board.GP18)
