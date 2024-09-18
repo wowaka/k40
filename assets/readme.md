@@ -18,6 +18,9 @@ PRK Firmware:
 - [PRK Firmware](https://github.com/picoruby/prk_firmware)
 - [PRK Documentation](https://github.com/picoruby/prk_firmware/wiki/Tutorial)
 
+Microcontroller:
+- [RP2040-Zero](https://www.waveshare.com/rp2040-zero.htm)
+
 ### Доп.инфо
 
 Руководства:
