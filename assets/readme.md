@@ -38,6 +38,8 @@ Microcontroller: [RP2040-Zero](https://www.waveshare.com/rp2040-zero.htm)
 - [Building the ScottoAlp Handwired Mechanical Keyboard Part 2](https://www.youtube.com/watch?v=fNw5EELwTT0)
 
 Софт:
+- [https://www.keyboard-layout-editor.com/](https://www.keyboard-layout-editor.com/)
+- [https://kbplate.ai03.com/](https://kbplate.ai03.com/)
 - [http://builder.swillkb.com/](http://builder.swillkb.com/)
 - [https://www.shapr3d.com/](https://www.shapr3d.com/)
 
