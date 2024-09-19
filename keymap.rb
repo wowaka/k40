@@ -7,7 +7,7 @@ kbd.init_pins(
   [ 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0 ]  # col0 (left), col1,... respectively
 )
 #keyboard.row_pins = (board.GP27, board.GP26, board.GP15, board.GP14)
-#keyboard.col_pins = (board.GP0, board.GP1, board.GP2, board.GP3, board.GP4, board.GP5, board.GP6, board.GP7, board.GP8, board.GP9, board.GP10, board.GP11, board.GP12, board.GP13)
+#keyboard.col_pins = (board.GP13, board.GP12, board.GP11, board.GP10, board.GP9, board.GP8, board.GP7, board.GP6, board.GP5, board.GP4, board.GP3, board.GP2, board.GP1, board.GP0)
 
 # default layer should be added at first
 kbd.add_layer :default, [
