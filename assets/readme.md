@@ -16,10 +16,6 @@
 - [PRK Firmware](https://github.com/picoruby/prk_firmware)
 - [PRK Documentation](https://github.com/picoruby/prk_firmware/wiki/Tutorial)
 
-Варианты монтажа в корпусе
-
-![](mounting.png)
-
 ### Доп.инфо
 
 Руководства:
